@@ -475,8 +475,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_SOONG_NAMESPACES += \
 	$(LOCAL_PATH) \
     hardware/google/interfaces \
-    hardware/google/pixel \
-    device/motorola/odessa-kernel
+    hardware/google/pixel
 
 # Telephony
 PRODUCT_PACKAGES += \
