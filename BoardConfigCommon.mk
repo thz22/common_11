@@ -19,6 +19,7 @@ BUILD_BROKEN_DUP_RULES := true
 BOARD_VENDOR := motorola
 
 VENDOR_PATH := device/motorola/sm6150-common
+KERNEL_PATH := $(VENDOR_PATH)-kernel
 
 # Architecture
 TARGET_ARCH := arm64
